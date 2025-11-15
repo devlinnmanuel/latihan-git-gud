@@ -44,6 +44,9 @@ def power(a, b):
     print("tes")
     return result
 
+def super_idol(a, b):
+    return a * (b ** 3)
+  
 def baru():
     print("ini baru")
 
