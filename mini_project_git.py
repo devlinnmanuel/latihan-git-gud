@@ -41,8 +41,11 @@ def modulus(a, b):
 
 def power(a, b):
     result = a ** b
+    print("tes")
     return result
 
+def baru():
+    print("ini baru")
 
 def main():
     print("=== Mini Project Git: Kalkulator ===")
