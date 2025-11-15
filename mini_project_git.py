@@ -18,8 +18,7 @@ dibagi kepada anggota tim untuk dikerjakan secara paralel.
 """
 
 def add(a, b):
-    # TODO: Tambahkan kode untuk operasi penjumlahan
-    pass
+    return a + b
 
 
 def subtract(a, b):
@@ -28,8 +27,7 @@ def subtract(a, b):
 
 
 def multiply(a, b):
-    # TODO: Tambahkan kode untuk operasi perkalian
-    pass
+    return a * b
 
 
 def divide(a, b):
@@ -38,8 +36,7 @@ def divide(a, b):
 
 
 def modulus(a, b):
-    # TODO: Tambahkan kode untuk operasi modulus
-    pass
+    return a % b
 
 
 def power(a, b):
