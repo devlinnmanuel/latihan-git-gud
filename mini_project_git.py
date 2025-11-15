@@ -22,8 +22,8 @@ def add(a, b):
 
 
 def subtract(a, b):
-    # TODO: Tambahkan kode untuk operasi pengurangan
-    pass
+    result = a - b
+    return result
 
 
 def multiply(a, b):
@@ -31,8 +31,8 @@ def multiply(a, b):
 
 
 def divide(a, b):
-    # TODO: Tambahkan pengecekan pembagi nol dan operasi pembagian
-    pass
+    result = a / b
+    return result
 
 
 def modulus(a, b):
@@ -40,8 +40,8 @@ def modulus(a, b):
 
 
 def power(a, b):
-    # TODO: Tambahkan kode untuk operasi pangkat
-    pass
+    result = a ** b
+    return result
 
 
 def main():
