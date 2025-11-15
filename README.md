@@ -1,3 +1,1 @@
-Hello, aku sudah berubah!
-
-Aku bertambah lagi....
+Halo semuanyaaaa
