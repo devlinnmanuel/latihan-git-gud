@@ -46,6 +46,9 @@ def power(a, b):
 
 def super_idol(a, b):
     return a * (b ** 3)
+  
+def baru():
+    print("ini baru")
 
 def main():
     print("=== Mini Project Git: Kalkulator ===")
