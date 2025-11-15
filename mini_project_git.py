@@ -18,7 +18,7 @@ dibagi kepada anggota tim untuk dikerjakan secara paralel.
 """
 
 def add(a, b):
-    return a + b
+    return a+b
 
 
 def subtract(a, b):
